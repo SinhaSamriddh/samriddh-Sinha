@@ -31,7 +31,7 @@ window.PORTFOLIO = {
   player: {
     name: "Samriddh Sinha",
     handle: "Samriddh.dev",                       // Short brand / username shown in the top bar
-    avatar: "assets/images/avatar-sample.svg",
+    avatar: "assets/images/aadi photo 2.jpeg",
     classTitles: [                             // Typed one after another in the hero
       "Code Wizard 🧙",
       "Full-Stack Apprentice",
